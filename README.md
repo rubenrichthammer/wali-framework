@@ -7,8 +7,18 @@ Dieses Projekt hat etwas besonderes Jede Woche verfügt das Framework über
 5 neue Elemente.
 Damit ich nicht alles auf einmal raushaue :D
 
+Version 0.0.1
+
+<ol>
+<li>Absatzformatierung</li>
+<li>Überschriftenformatierung</li>
+<li>Unterstreichungen hervorheben</li>
+<li>Linkformatierung</li>
+<li>Attributsformatierungen z.B A:Visited</li>
+
+
 Ihr könnt die Software frei benutzen,verfielfältigen,verändern
-aber bitte treibt keienn Komert damit.
+aber bitte treibt keienn Komerz damit.
 
 
 Versions CODE / Nächstes Funktions Update
