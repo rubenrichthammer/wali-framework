@@ -1,0 +1,26 @@
+body {
+    background-color: #ff6a00;
+}
+p{
+color: #573232;
+text
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    opacity: 0.6;
+    color: #808080
+}
+
+a {
+    color: #4cff00;
+}
+
+a:visited {
+    color: #f00;
+    opacity: 0.8;
+}
+
+u {
+    text-transform: uppercase;
+}
