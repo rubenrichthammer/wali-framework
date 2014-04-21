@@ -3,7 +3,6 @@ body {
 }
 p{
 color: #573232;
-text
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -13,14 +12,41 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a {
-    color: #4cff00;
+    color: #0026ff;
 }
 
 a:visited {
-    color: #f00;
+    color: #4cff00;
     opacity: 0.8;
 }
 
 u {
     text-transform: uppercase;
+}
+
+
+footer {
+  
+position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 870px;
+	height: 79px;
+    text-align: center;
+    font-size: 17px;
+}
+img {
+    
+    border-radius: 50%;
+				border: 16px solid rgba(0,0,0,0.4);
+				width: 150px;
+				height: 150px;
+    			background-position: center center;
+    			background-repeat: no-repeat;
+    			background-size:296px;
+    			margin: 0 auto;
+}
+
+s {
+    font-weight: bold;
 }
